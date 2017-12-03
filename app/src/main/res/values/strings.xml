@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MADRecipe</string>
+    <string name="no_recipes">Looks like you don\'t have recipes</string>
+    <string name="web_source">Web source</string>
+    <string name="ingredients">Ingredients</string>
+
+</resources>

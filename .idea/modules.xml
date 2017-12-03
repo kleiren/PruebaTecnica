@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MADRecipe.iml" filepath="$PROJECT_DIR$/MADRecipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaTecnica.iml" filepath="$PROJECT_DIR$/PruebaTecnica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaTecnica-master-c41e298fd08b708a9073f7a734bae1e0997d25ce.iml" filepath="$PROJECT_DIR$/PruebaTecnica-master-c41e298fd08b708a9073f7a734bae1e0997d25ce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
